@@ -1,1 +1,1 @@
-
+Column Name   Data TypeId            intusername      nvarchar(50)image         image 
